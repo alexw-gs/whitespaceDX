@@ -7,31 +7,35 @@
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
-        <valueSet>true
-            
-                false
-                
-                    Value1
-                    false
-                    Value1
-                
-                
-                    Value2
-                    false
-                    Value2
-                
-                
-                    Value3
-                    false
-                    Value3
-                
-                
-                    Value4
-                    false
-                    Value4
-                
-                
-                    Value5
-                    false
-                    Value5</valueSet>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Value1</fullName>
+                    <default>false</default>
+                    <label>Value1</label>
+                </value>
+                <value>
+                    <fullName>Value2</fullName>
+                    <default>false</default>
+                    <label>Value2</label>
+                </value>
+                <value>
+                    <fullName>Value3</fullName>
+                    <default>false</default>
+                    <label>Value3</label>
+                </value>
+                <value>
+                    <fullName>Value4</fullName>
+                    <default>false</default>
+                    <label>Value4</label>
+                </value>
+                <value>
+                    <fullName>Value5</fullName>
+                    <default>false</default>
+                    <label>Value5</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </CustomField>
