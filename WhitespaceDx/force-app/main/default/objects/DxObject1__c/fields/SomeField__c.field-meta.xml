@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>SomeField__c</fullName>
     <defaultValue>false</defaultValue>
-    <description>description2</description>
+    <description>Description in a VSCode-linked org checkbox</description>
     <externalId>false</externalId>
     <label>SomeField</label>
     <trackTrending>false</trackTrending>
